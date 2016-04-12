@@ -1,0 +1,1 @@
+inside lame-o.c
